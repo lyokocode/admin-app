@@ -1,0 +1,10 @@
+.home {
+    display: flex;
+    height: 100vh;
+    position: relative;
+
+    .homeContainer {
+        flex: 6;
+        overflow: auto;
+    }
+}
